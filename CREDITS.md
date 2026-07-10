@@ -85,8 +85,8 @@ ProFilio would not exist without the incredible work of the following mod author
 | TrashSlot | BlayTheNinth | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/trashslot) |
 | Tree Harvester | Serilum | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tree-harvester) |
 | Villages Revamped | BrutusMaxi | [Modrinth](https://modrinth.com/datapack/villages-revamped) |
-| Voxy | MCRcortex | [GitHub](https://github.com/MCRcortex/voxy) |
-| Voxy World Gen V2 | iSeeEthan | [GitHub](https://github.com/iSeeEthan/voxy_worldgen_v2) |
+| Voxy | cortex | [Modrinth](https://modrinth.com/mod/voxy) |
+| Voxy World Gen V2 | iSeeEthan | [Modrinth](https://modrinth.com/mod/voxy-worldgen) |
 | WITS (What Is This Structure?) | telepathicgrunt | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wits) |
 | Yet Another Config Lib (YACL) | isXander | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yacl) |
 | YUNG Structures Addon for Loot Integrations | someaddon | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yung-structures-addon-for-loot-integrations) |
