@@ -4,7 +4,7 @@
 
 ## Overview
 
-ProFilio (Latin for *For My Son*) began as a personal project to create a Minecraft experience I wanted to share with my son.
+ProFilio (Latin for: *For My Son*) began as a personal project to create a Minecraft experience I wanted to share with my son.
 
 The goal wasn't to reinvent Minecraft or overwhelm with new content. Instead, the additions were selected to preserve the core vanilla experience while refining nearly every aspect of the game.
 
