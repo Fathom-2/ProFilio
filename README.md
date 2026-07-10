@@ -1,9 +1,5 @@
 ![ProFilio](ProFilio%20Banner.png)
 
-# ProFilio
-
-> *For My Son*
-
 ---
 
 ## Overview
