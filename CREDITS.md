@@ -82,7 +82,7 @@ ProFilio would not exist without the incredible work of the following mod author
 | Tectonic | Apollo | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tectonic) |
 | Text Placeholder API | Patbox | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/text-placeholder-api) |
 | Towns and Towers | Biban_Auriu | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/towns-and-towers) |
-| Towns and Towers Addon for Loot Integrations | someaddon | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/towns-and-towers-addon-for-loot-integrations) |
+| Towns and Towers Addon for Loot Integrations | someaddon | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-towns-and-towers) |
 | TrashSlot | BlayTheNinth | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/trashslot) |
 | Tree Harvester | Serilum | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tree-harvester) |
 | Villages Revamped | BrutusMaxi | [Modrinth](https://modrinth.com/datapack/villages-revamped) |
